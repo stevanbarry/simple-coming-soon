@@ -1,2 +1,2 @@
 # simple-coming-soon
-The simple of simplest 'coming soon' page
+A simple 'coming soon' page using bootstrap - lightweight and responsive... what more could you want!
